@@ -1,4 +1,4 @@
-# Análise de Vendas
+# Análise de Vendas usando SQL e EXCEL
 
 ## Contexto
 
