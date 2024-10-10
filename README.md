@@ -1,4 +1,4 @@
-# Análise de Venda
+# Análise de Vendas
 
 ## Contexto
 
