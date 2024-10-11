@@ -132,8 +132,28 @@ LEFT JOIN
 3. **Visualização de Dados com o Dashboard**
    - Com base nos dados da tabela dinâmica, gráficos foram criados para visualizar as métricas importantes.
    - Os gráficos foram organizados em um dashboard, que permitiu uma visão clara das vendas por filial, tipo de cliente e outras métricas relevantes.
+     
 ![Dashboard](https://github.com/user-attachments/assets/bdb28a5a-ccfb-4a94-9c2f-dba7b47351f9)
 
+Analisando o dashboard, aqui estão alguns insights:
+
+1. **Média de Vendas por Tipos de Clientes**:
+   - O gráfico de pizza mostra que as vendas estão distribuídas de forma equilibrada entre os diferentes tipos de clientes, com uma variação muito pequena nas porcentagens (entre 17,38% e 18,50%). Isso sugere que nenhum tipo de cliente domina significativamente as vendas.
+
+2. **Média de Venda por Filial**:
+   - A filial **Giza** tem a maior média de venda, superando **Cairo** e **Alex**, com uma diferença notável. Isso indica que **Giza** está se destacando em termos de ticket médio por venda.
+   - As filiais **Alex** e **Cairo** estão próximas, mas **Cairo** tem uma média de venda um pouco maior que **Alex**.
+
+3. **Total de Impostos Pagos por Filial**:
+   - Aqui, podemos ver que a filial **Giza** também lidera no total de impostos pagos, o que é coerente com sua maior média de vendas. Isso sugere que **Giza** está gerando mais receita e, portanto, pagando mais impostos.
+   - As filiais **Alex** e **Cairo** têm impostos pagos praticamente iguais, refletindo sua menor performance de vendas.
+
+4. **Média de Classificação dos Produtos por Filial**:
+   - A filial **Giza** também lidera na média de classificação dos produtos, o que pode indicar maior satisfação dos clientes nessa unidade.
+   - **Alex** e **Cairo** têm classificações similares, mas ainda abaixo de **Giza**.
+
+5. **Total de Produtos Vendidos por Filial**:
+   - Em termos de quantidade de produtos vendidos, a filial **Alex** lidera, seguida por **Cairo** e **Giza**. Isso é interessante, pois **Giza** tem a maior média de venda, mas vende menos produtos em volume. Isso pode indicar que **Giza** está vendendo itens de maior valor, enquanto **Alex** tem um volume maior de produtos, mas com ticket médio menor.
 
 ### Conclusão
 
